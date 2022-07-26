@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LwaziFezile
+- 👋 Hi, I’m @LwaziFezile and I'm an IT graduate
 - 👀 I’m interested in Front-End & Back-end Development 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript and looking for any Internships
 - 💞️ I’m looking to collaborate on any Web project
 - 📫 How to reach me LwaziFezileWork@gmail.com
 
